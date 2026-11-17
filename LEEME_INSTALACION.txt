@@ -1,0 +1,16 @@
+FIRMA PROFESIONAL JOHAN VERGARAY — INSTALACION GRATUITA
+
+1. Crea un repositorio PUBLICO en GitHub, llamado por ejemplo firma-johan-vergaray.
+2. En Add file > Upload files, sube index.html, Firma_Johan_Vergaray.html, los 3 PNG y .nojekyll (si no se ve este ultimo archivo oculto, no es imprescindible).
+3. En Settings > Pages > Build and deployment elige Source: Deploy from a branch, Branch: main y Folder: /(root). Guarda.
+4. Abre la URL publicada, que GitHub mostrara en Settings > Pages.
+5. Selecciona con el mouse la firma renderizada en la pagina, copiala (Ctrl+C). NO copies el codigo fuente ni pegues una captura de pantalla.
+6. En Gmail: Configuracion > Ver todos los ajustes > General > Firma > Crear nueva. Pega la firma en el editor.
+7. Selecciona esta firma para nuevos mensajes y para respuestas/reenvios; guarda cambios.
+8. Enviate un correo de prueba; verifica las 3 imagenes y abre los enlaces de ORCID y LinkedIn.
+
+NOTAS
+- Los enlaces de LinkedIn y ORCID son clicables y estan incorporados en el HTML.
+- Los archivos PNG deben permanecer publicos en el repositorio, con los mismos nombres y rutas.
+- GitHub Pages y Gmail se pueden utilizar gratuitamente con una cuenta personal.
+- No se garantizan las mismas posiciones exactas en todos los lectores de correo; comprueba escritorio y movil.
